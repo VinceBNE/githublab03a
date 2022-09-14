@@ -6,6 +6,7 @@
 -->
 
 # Create a release based workflow
+# update the branch
 
 <!--step0
 Create a release based workflow that is built on the foundations of the [GitHub flow](https://guides.github.com/introduction/flow/). When your team uses a release-based workflow, GitHub makes it easy to collaborate with deployable iterations of your project that you can package and make available for a wider audience to download and use.
